@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wadii Gaied</h1>
+ Final year Automatic Electronics and Electrical Engineering Student with a specialization in automated system and industrial networks
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wadii-gaied-678b91278/) | [Email](mailto:gaiedwadii@gmail.com)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
