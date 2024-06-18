@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wadii Gaied</h1>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wadii-gaied-678b91278/) | [Email](mailto:gaiedwadii@gmail.com) 
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wadii-gaied-678b91278/) | [Email](mailto:gaiedwadii@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
