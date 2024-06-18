@@ -1,7 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Wadii Gaied</h1>
 ## Final year Automatic Electronics and Electrical Engineering Student with a specialization in automated system and industrial networks
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wadii-gaied-678b91278/) | [Email](mailto:gaiedwadii@gmail.com)
+## Contact Me 📫  :
+[LinkedIn](https://www.linkedin.com/in/wadii-gaied-678b91278/) | [Email](mailto:gaiedwadii@gmail.com)
 
 
 
